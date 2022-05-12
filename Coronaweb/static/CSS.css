@@ -1,0 +1,110 @@
+.span {
+     margin: 5px;   
+     padding: 5px;
+     border-radius: 5%;
+     text-align: right; 
+}
+body {
+   
+   background-image: url("https://assets.kpmg/content/dam/kpmg/xx/images/2020/03/digital-lines-thread-network-abstract-blue-purple.jpg/jcr:content/renditions/original");
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+
+}
+.section {
+    text-align: left;
+    margin: 10px;
+    margin-left: 25px;
+    
+}
+a {
+    color: peachpuff;
+    font-size: larger;
+
+}
+.divv {
+    margin-bottom: 2px;
+    margin-top: 2px;
+    text-align: center;
+    color: white;
+    text-align: bottom;
+    
+}
+a:hover {
+    color: thistle;
+}
+.image {
+    width: 1250px;
+    height: 530px;
+    align-self: center;
+
+}
+.carousel-item {
+    margin-top: 300px;
+    text-align: center;
+}
+.h5 {
+    color: rgb(0, 0, 0);
+}
+.imgcell {
+    width: 30px;
+    margin-left: 590px;
+    margin-top: 5px;
+    
+}
+.imgcell2 {
+    width: 30px;
+    margin-left: 600px;
+
+}
+.a {
+    background-color: rgb(0, 0, 0);
+    padding: 14px;
+    color: black;
+    border-radius: 18px;
+    color: white;
+}
+.a:hover {
+    color: rgb(255, 0, 191);
+}
+h1,h2,h4{
+    
+    text-align: left;
+    color: white;
+    margin: 10px;
+    margin-left: 25px;
+    padding: 2px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    margin-right: 20px;
+}
+h4 {
+    margin-right: 25px;
+}
+.carousel-control-prev,.carousel-control-next {
+    margin-top: 300px;
+    
+}
+#button {
+    color: red;
+}
+.about {
+    color: rgb(255, 0, 191);
+    text-align: center;
+    margin: 5px;
+    font-weight: bold;
+    margin-bottom: 15PX;
+}
+hr {
+    color: white;
+}
+.body{
+    background-image: url("https://media.istockphoto.com/vectors/abstract-black-stripes-diagonal-background-vector-id1294603953?k=20&m=1294603953&s=612x612&w=0&h=KLAV73oMUFA2ucWMMTOdXT8Vn4LVUsh6NTiXRmlX5ZA=");
+    background-size: contain;
+    background-repeat: repeat;
+    background-color: black;
+ 
+}
